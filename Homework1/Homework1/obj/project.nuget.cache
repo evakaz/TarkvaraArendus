@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "l714PrtZQ7uLK8TtDyu9Yqst3N/F17zWr6fU7StwGE6Am31yok8awGmYN4TcHMXHWz/rD3i9h3DSNJMxCsH01w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lexae\\source\\repos\\TarkvaraArendus\\Homework1\\Homework1\\Homework1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lexae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.22\\microsoft.netcore.app.host.win-x64.3.1.22.nupkg.sha512"
+  ],
+  "logs": []
+}
